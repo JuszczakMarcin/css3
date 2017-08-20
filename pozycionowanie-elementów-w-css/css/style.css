@@ -30,3 +30,13 @@ body {
     height: 50px ;
     background-color: blue;
 }
+p {color: royalblue}
+
+#zafixowany{
+    width: 200px;
+    height: 200px;
+    background-color: darkorchid;
+    position: fixed;
+    top: 30px;
+    right: 30px;
+}
