@@ -1,0 +1,27 @@
+body{
+    background-color: aquamarine;
+}
+
+.color-box{
+    width: 200px;
+    height: 30px;
+    margin-bottom: 10px;
+}
+
+#kolory-predefiniowane{
+    background: red;
+}
+
+#kolory-heksadecymalne{
+    background-color: #6a2f4e;
+}
+#kolory-heksadecymalne-zapis-skrocony{
+    background-color: #f39;
+}
+#kolory-rgb{
+    background-color: rgb(230, 22, 15)
+}
+
+#kolory-rgba{
+    background-color: rgba(144, 31, 31, 0.61)
+}
